@@ -11,7 +11,7 @@
 
 🗃️ ./GeoMine        — mining PDFs for post-collapse intel  
 👻 ./AI-Reviewer    — ghost in your version control  
-🏥 ./OpenHMS        — hospital software for the unplugged
+🏥 ./VitaLit(WIP)   — hospital software for the unplugged
 
 ⚠️ entropy rising  
 📬 avishkardandge04@gmail.com  
