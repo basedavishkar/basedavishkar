@@ -1,10 +1,32 @@
-# Hi, I’m Avishkar 👋
+# 🧃 avishkar
 
-🚀 Co-founder & CTO @BabelLabsAI  
-🛠️ Built 10+ GPT-powered chatbots, real-time AI dubbing infra, and hospital software  
-📦 OSS Projects: [GeoMine](https://github.com/ashkaaar/GeoMine-NER-Geolocation), [AI Code Reviewer](https://github.com/ashkaaar/AI-code-review)  
-🔁 Building LangBot-Starter – open-source RAG bot framework  
-🎯 Skilled in Python, Go, LangChain, GPT-4, Redis, AWS, and scalable infra
+status: building  
+mood: low latency  
+stack: duct-taped, distributed, and mostly alive
 
-**Currently open to impactful SWE/AI roles or collabs**  
-📬 avishkardandge04@gmail.com
+—
+
+I wire strange systems together until they do something intelligent.  
+No dashboards. No drag-and-drop. Just raw compute, real-time pipelines, and dumb hacks that work.
+
+sometimes I:
+- build infra no one notices — until it breaks
+- ship AI tools that hallucinate responsibly
+- prototype fast enough to outrun the docs
+
+—
+
+📂 source code leaks:
+→ [GeoMine](https://github.com/ashkaaar/GeoMine-NER-Geolocation) — mineral PDFs → structured intel  
+→ [AI Code Reviewer](https://github.com/ashkaaar/AI-code-review) — code ghost for PRs  
+→ Open-HMS(WIP)
+
+—
+
+🧠 tech stack:
+`python` `go` `redis` `gpt-4` `rag` `sqlite` `aws` `shell scripts duct taped to heaven`
+
+—
+
+📬 avishkardandge04@gmail.com  
+🕳 open to infra-heavy, AI-laced roles or collabs that need speed, not ceremony
