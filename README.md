@@ -6,8 +6,8 @@
 
   avishkar@github ~ % booting...
 
-> the world is ending  
-> I still write code
+> I build systems for a world that’s already ending
+> sometimes they even work
 
 🗃️ ./GeoMine        — mining PDFs for post-collapse intel  
 👻 ./AI-Reviewer    — ghost in your version control  
