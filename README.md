@@ -14,5 +14,6 @@
 
 ⚠️ entropy rising  
 📬 avishkardandge04@gmail.com  
+🌐 [avishkardandge.com](https://avishkardandge.com)  
 🕳️ open to roles at the edge of reason
 ```
