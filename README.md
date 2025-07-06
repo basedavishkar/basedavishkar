@@ -3,10 +3,9 @@
     /¯¯¯¯¯| \¯¯¯\    /¯¯¯/'   O    /¯¯¯¯¯/ ' |¯¯¯|¯¯¯| |¯¯¯|/¯¯¯/     /¯¯¯¯¯| |¯¯¯¯\  
   /     !     |   \     \/      /  |¯¯¯¯| \ __¯¯¯\' |           |°|          <°   /     !     | |   x  <|'
 /___/¯|__'|     \_____/ _' |____| /______/||___|___| |___|\___\ /___/¯|__'| |__|\__\
-
   avishkar@github ~ % booting...
 
-> I build systems for a world that’s already ending
+> I build systems for a world that’s already ending  
 > sometimes they even work
 
 🗃️ ./GeoMine        — mining PDFs for post-collapse intel  
