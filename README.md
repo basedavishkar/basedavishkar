@@ -1,10 +1,9 @@
-```txt
-
+```
     /¯¯¯¯¯| \¯¯¯\    /¯¯¯/'   O    /¯¯¯¯¯/ ' |¯¯¯|¯¯¯| |¯¯¯|/¯¯¯/     /¯¯¯¯¯| |¯¯¯¯\  
   /     !     |   \     \/      /  |¯¯¯¯| \ __¯¯¯\' |           |°|          <°   /     !     | |   x  <|'
 /___/¯|__'|     \_____/ _' |____| /______/||___|___| |___|\___\ /___/¯|__'| |__|\__\
 
-avishkar@github ~ % booting...
+  avishkar@github ~ % booting...
 
 > I build systems for a world that’s already ending  
 > sometimes they even work
@@ -16,3 +15,4 @@ avishkar@github ~ % booting...
 ⚠️ entropy rising  
 📬 avishkardandge04@gmail.com  
 🕳️ open to roles at the edge of reason
+```
