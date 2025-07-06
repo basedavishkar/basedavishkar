@@ -2,7 +2,7 @@
     /¯¯¯¯¯| \¯¯¯\    /¯¯¯/'   O    /¯¯¯¯¯/ ' |¯¯¯|¯¯¯| |¯¯¯|/¯¯¯/     /¯¯¯¯¯| |¯¯¯¯\  
   /     !     |   \     \/      /  |¯¯¯¯| \ __¯¯¯\' |           |°|          <°   /     !     | |   x  <|'
 /___/¯|__'|     \_____/ _' |____| /______/||___|___| |___|\___\ /___/¯|__'| |__|\__\
-```
+
   avishkar@github ~ % booting...
 
 > I build systems for a world that’s already ending  
@@ -14,6 +14,8 @@
 
 ⚠️ entropy rising  
 📬 avishkardandge04@gmail.com  
+&nbsp;  
 🌐 [avishkardandge.com](https://avishkardandge.com)  
 🕳️ open to roles at the edge of reason
 
+```
